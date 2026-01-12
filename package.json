@@ -1,0 +1,21 @@
+{
+  "name": "my-cool-dark-theme",
+  "displayName": "My Cool Dark Theme",
+  "description": "A clean, modern dark theme with soothing colors for focused coding.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Midnight Code-color-theme.json"
+      }
+    ]
+  }
+}

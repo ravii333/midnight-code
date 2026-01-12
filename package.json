@@ -1,14 +1,21 @@
 {
-  "name": "my-cool-dark-theme",
-  "displayName": "My Cool Dark Theme",
-  "description": "A clean, modern dark theme with soothing colors for focused coding.",
+  "name": "midnight-code",
+  "displayName": "Midnight Code",
+  "description": "A modern dark VS Code theme with Firebase-inspired syntax and a deep midnight blue palette.",
   "version": "0.0.1",
+  "publisher": "ravikumar",
   "engines": {
-    "vscode": "^1.105.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "images/icon.png",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ravii333/midnight-code"
+  },
   "contributes": {
     "themes": [
       {

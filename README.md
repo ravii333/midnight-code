@@ -1,16 +1,44 @@
-# my-cool-dark-theme README
+# 🌙 Midnight Code
 
-## Working with Markdown
+**Midnight Code** is a clean, modern dark theme for Visual Studio Code, designed for long coding sessions with high readability, calm contrast, and Firebase-inspired syntax highlighting.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Built for developers who love a deep blue night aesthetic without eye strain.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+---
 
-## For more information
+## ✨ Features
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- 🌌 Deep midnight blue background for focused coding  
+- 🎯 Firebase-style syntax highlighting (clean & readable)  
+- 🔍 High contrast without harsh colors  
+- ⚡ Optimized for JavaScript, TypeScript, React, JSON, HTML, CSS, and Markdown  
+- 🧠 Carefully balanced colors for long coding sessions  
+
+---
+
+## 🎨 Color Palette
+
+| Element | Color |
+|------|------|
+| Background | `#0F141A` |
+| Foreground | `#DDE6F0` |
+| Accent Blue | `#2289FE` |
+| Keywords | Soft Purple |
+| Strings | Calm Green |
+| Functions | Cyan Blue |
+| Numbers | Warm Orange |
+| Comments | Muted Gray (italic) |
+
+---
+
+## 🖥️ Screenshots
+
+> _Tip: Add screenshots before publishing to increase installs._
+
+```md
+![JavaScript Preview](images/js-preview.png)
+![React Preview](images/react-preview.png)
+![JSON Preview](images/json-preview.png)
+
 
 **Enjoy!**
